@@ -1,3 +1,10 @@
+/**************
+//little c program
+//zhaomingming
+//13271929138
+//18996154607
+//***************/
+
 #include "stdio.h"
 #include "math.h"
 #include "string.h"
